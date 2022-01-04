@@ -1,6 +1,6 @@
 # BuscaCep
 
-## Projeto Busca CEP criado em React.js e consumindo api externa.
+## Busca CEP criado em React.js e consumindo api externa.
 
 <h1 align="center">
     <a>🔗 Busca CEP</a>
